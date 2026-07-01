@@ -1,0 +1,188 @@
+canonical_identifier: bkk:krp/KR6q0142/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0142/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 叢林兩序須知
+  identifiers:
+    krp: KR6q0142
+    cbeta: X63n1251
+    cbeta_old_id: X63n1251
+    authorityid: CA0000382
+    json_key: X1251
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1251.xml
+    old_id: X63n1251
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0142_000-X.yaml, hash: 'sha256:ab7c38606985c33170d90586f9e31971fd3d4fb154e0e3d0e0623f184e0805f9'}
+  - {seq: 1, filename: KR6q0142_001-X.yaml, hash: 'sha256:2c1ea8a935975d72f692452efbe4cfbfd367770b2b2f0cf8a43e3dfe38bccc51'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0142_000-X.markers.yaml, hash: 'sha256:dd5174edfd13ec09a207d5bb6d4d4f8d0f130cfdccae87133fe6c89e8202d85e'}
+  - {seq: 1, role: markers, filename: assets/KR6q0142_001-X.markers.yaml, hash: 'sha256:7a681af66b2bb00804bef82aa6436071add9e5836deed6af11728d8072f01db5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0142_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 叢林兩序須知目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10045
+  label: 叢林兩序須知
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 總引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-2
+    span:
+    - body
+    - 296
+    - 296
+  label: 西序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-3
+    span:
+    - body
+    - 365
+    - 365
+  label: 首座須知(西堂通用)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-4
+    span:
+    - body
+    - 926
+    - 926
+  label: 書記須知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-5
+    span:
+    - body
+    - 1371
+    - 1371
+  label: 藏主須知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-6
+    span:
+    - body
+    - 1790
+    - 1790
+  label: 知客須知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-7
+    span:
+    - body
+    - 3555
+    - 3555
+  label: 浴主須知(內圊頭附)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-8
+    span:
+    - body
+    - 4173
+    - 4173
+  label: 方丈侍者須知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-9
+    span:
+    - body
+    - 5115
+    - 5115
+  label: 東序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-10
+    span:
+    - body
+    - 5128
+    - 5128
+  label: 監寺須知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-11
+    span:
+    - body
+    - 6314
+    - 6314
+  label: 維那須知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-12
+    span:
+    - body
+    - 7382
+    - 7382
+  label: 副寺須知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-13
+    span:
+    - body
+    - 8550
+    - 8550
+  label: 典座須知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0142_X_001-mulu-14
+    span:
+    - body
+    - 9115
+    - 9115
+  label: 直歲須知
+  type: mulu
+  level: 1
+hash: sha256:0fb87948bff547b56a646cd0c9b6d726d5fb038aaad74637f04286a00ea1f66a
