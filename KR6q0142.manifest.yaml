@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0142/v1
 canonical_location: https://kanripo.org/bkk/KR6q0142/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 叢林兩序須知
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0142_000.yaml, hash: 'sha256:ab7c38606985c33170d90586f9e31971fd3d4fb154e0e3d0e0623f184e0805f9'}
-  - {seq: 1, filename: KR6q0142_001.yaml, hash: 'sha256:2c1ea8a935975d72f692452efbe4cfbfd367770b2b2f0cf8a43e3dfe38bccc51'}
+  - {seq: 1, filename: KR6q0142_001.yaml, hash: 'sha256:0bd0bbcf8ad5e7cb9fefeb32c295e93564de4a61d2dc6548c069878390306073'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0142_000.markers.yaml, hash: 'sha256:10808bd83c40ee7063092fb9830bb49e628793c0c1b924368808026ba5f839a3'}
-  - {seq: 1, role: markers, filename: assets/KR6q0142_001.markers.yaml, hash: 'sha256:00d9776d5ea97ad21292d6e1d01af443fc219e615ee09a4a3a8504273a0d9606'}
+  - {seq: 1, role: markers, filename: assets/KR6q0142_001.markers.yaml, hash: 'sha256:78857c48f8b8bdf8d557ac85e0bfdd67f4a7b1e461bf6f356891f09ea69ce598'}
 table_of_contents:
 - ref:
     seq: 0
@@ -187,4 +187,7 @@ table_of_contents:
   label: 直歲須知
   type: mulu
   level: 1
-hash: sha256:311244ebd8949324a899df55d4b683311b5bc191d7a0dcb83a7167bf591d8865
+hash: sha256:2214865c0a17b58b757787dac2e37a3e9dcfb299453fc245a33a72c6cdfdb60c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
