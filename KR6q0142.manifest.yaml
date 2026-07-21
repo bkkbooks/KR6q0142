@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0142_000.yaml, hash: 'sha256:ab7c38606985c33170d90586f9e31971fd3d4fb154e0e3d0e0623f184e0805f9'}
+  - {seq: 0, filename: KR6q0142_000.yaml, hash: 'sha256:8fc50050ed9612fd325c13a8c5ff89a85ce348cee03dc1bef67920a235ecf95d'}
   - {seq: 1, filename: KR6q0142_001.yaml, hash: 'sha256:0bd0bbcf8ad5e7cb9fefeb32c295e93564de4a61d2dc6548c069878390306073'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0142_000.markers.yaml, hash: 'sha256:10808bd83c40ee7063092fb9830bb49e628793c0c1b924368808026ba5f839a3'}
+  - {seq: 0, role: markers, filename: assets/KR6q0142_000.markers.yaml, hash: 'sha256:69e3256e5cc3bf964affa3b13647e5186e3788f9b5e2e47e093d5029ab7451ff'}
   - {seq: 1, role: markers, filename: assets/KR6q0142_001.markers.yaml, hash: 'sha256:78857c48f8b8bdf8d557ac85e0bfdd67f4a7b1e461bf6f356891f09ea69ce598'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0142_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 叢林兩序須知目次
@@ -187,7 +187,7 @@ table_of_contents:
   label: 直歲須知
   type: mulu
   level: 1
-hash: sha256:2214865c0a17b58b757787dac2e37a3e9dcfb299453fc245a33a72c6cdfdb60c
+hash: sha256:c577e43f0a0739c0430320a9d702c6206404882c712c6b7694ef0b41befa97a6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

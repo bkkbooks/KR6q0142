@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0142/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 叢林兩序須知目次總引西序首座須知西堂通用書記須知藏主須知知客須知浴主須知內圊頭附方丈侍者須知東序監寺須知維那須知副寺須知典座須知直歲須知
   hash: sha256:a45eab4c69966283a10517edd1f4a584f3a66b389dc50fb7b7317c031da39961
   markers:
   - {type: 其他, offset: 0, content: 叢林兩序須知目次, id: KR6q0142_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 叢林兩序須知
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X63/X63n1251.xml
     old_id: X63n1251
-hash: sha256:ab7c38606985c33170d90586f9e31971fd3d4fb154e0e3d0e0623f184e0805f9
+hash: sha256:8fc50050ed9612fd325c13a8c5ff89a85ce348cee03dc1bef67920a235ecf95d

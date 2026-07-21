@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0142_000-X.yaml, hash: 'sha256:ab7c38606985c33170d90586f9e31971fd3d4fb154e0e3d0e0623f184e0805f9'}
+  - {seq: 0, filename: KR6q0142_000-X.yaml, hash: 'sha256:8fc50050ed9612fd325c13a8c5ff89a85ce348cee03dc1bef67920a235ecf95d'}
   - {seq: 1, filename: KR6q0142_001-X.yaml, hash: 'sha256:2c1ea8a935975d72f692452efbe4cfbfd367770b2b2f0cf8a43e3dfe38bccc51'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0142_000-X.markers.yaml, hash: 'sha256:dd5174edfd13ec09a207d5bb6d4d4f8d0f130cfdccae87133fe6c89e8202d85e'}
+  - {seq: 0, role: markers, filename: assets/KR6q0142_000-X.markers.yaml, hash: 'sha256:6d9cc11b802565b72f3ed5c55b4186605a50d51577b9d9f720dcca628d6ea80d'}
   - {seq: 1, role: markers, filename: assets/KR6q0142_001-X.markers.yaml, hash: 'sha256:7a681af66b2bb00804bef82aa6436071add9e5836deed6af11728d8072f01db5'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0142_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 叢林兩序須知目次
@@ -185,4 +185,4 @@ table_of_contents:
   label: 直歲須知
   type: mulu
   level: 1
-hash: sha256:0fb87948bff547b56a646cd0c9b6d726d5fb038aaad74637f04286a00ea1f66a
+hash: sha256:66a61b2eea41e6e87c228391cd138427bad9d056c409eabd5fc1ebffe04da345
